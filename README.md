@@ -84,4 +84,3 @@ class HalitHacbekkur {
 # ⚡ Motto
 
 > Learning programming step by step and building a strong foundation.
-
