@@ -36,7 +36,9 @@ class HalitHacbekkur {
 
  String role = "Software Engineering Student";
  String university = "Firat University";
- String focus = "Currently building a strong programming foundation";
+ String year = "1st Year";
+
+ String focus = "Currently learning programming fundamentals";
 
  String mainLanguage = "Java";
 
@@ -54,22 +56,10 @@ class HalitHacbekkur {
 
 ---
 
-# 🎬 My YouTube Focus
-
-* 📚 Programming tutorials
-* 💻 Java basics & problem solving
-* 🛠 Developer tools
-* 🚀 Learning programming step by step
-
-▶ Check it out:
-https://www.youtube.com/@Codestan-1206
-
----
-
 # 🧰 Tech Toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea,python,cpp,figma,bash"/>
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea"/>
 </p>
 
 ---
