@@ -38,7 +38,7 @@ class HalitHacbekkur {
  String university = "Firat University";
  String year = "1st Year";
 
- String focus = "Currently learning programming fundamentals";
+ String focus = "Currently building strong programming fundamentals";
 
  String mainLanguage = "Java";
 
@@ -48,7 +48,10 @@ class HalitHacbekkur {
   "Notion",
   "ChatGPT",
   "VS Code",
-  "IntelliJ IDEA"
+  "Antigravity",
+  "IntelliJ IDEA",
+  "Cloud",
+  "LinkedIn"
  };
 
 }
@@ -59,7 +62,9 @@ class HalitHacbekkur {
 # 🧰 Tech Toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea"/>
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea,notion"/>
+
 </p>
 
 ---
